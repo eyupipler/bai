@@ -3,7 +3,7 @@
 
 bai modelleri Neurazum projesine ait bir EEG verisi okuması üzerine eğitilen "NeurAI" adlı yapay zekaya aittir. Her modelin kendine ait farklı özellikleri vardır. Projemiz hakkında bilgi edinmek isterseniz LinkedIn profilimize göz atabilirsiniz: https://www.linkedin.com/company/neurazum
 (TÜRKÇESİ YAKINDA GELECEKTİR)
-----------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------
 
 # bai Models
 
