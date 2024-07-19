@@ -10,7 +10,7 @@
 
 ## The "bai-3.0 Epilepsy" model detects the patient's epileptic seizure status.
 
-#### NOTE: If you integrate the model into a real-time EEG data tracking application, it can predict epilepsy seizure in real time. To access the application: https://github.com/neurazum/Realtime-EEG-Monitoring
+#### NOTE: If you integrate the model into a real-time EEG data tracking application, it can predict epilepsy seizure state in real time. To access the application: https://github.com/neurazum/Realtime-EEG-Monitoring
 **Doğruluk/Accuracy: %68,90829694323143**
 
 # Kullanım / Usage
